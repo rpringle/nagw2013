@@ -1,8 +1,8 @@
 <?php
 	// Define event var and attendees as array of attendee names
 	$event = 'NAGW 2013 Conference';
-	$attendees = array('Ron Pringle','Your Name Here');
-	
+	$attendees = array('Ron Pringle','Rob Bittner');
+	// that was easy enough (RB) ... 
 ?>
 <html>
 	<head>
@@ -28,6 +28,6 @@
 				echo "</ul>\n";
 			}
 		?>
-		<p>Version 1.0</p>
+		<p>Version 1.1</p>
 	</body>
 </html>
